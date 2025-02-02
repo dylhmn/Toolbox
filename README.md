@@ -1,2 +1,3 @@
 # Toolbox
-A collection of handy personal projects
+
+A collection of handy personal projects, under the MIT license.
